@@ -16,6 +16,5 @@ public class Main {
             station.check(car);
             System.out.println();
             station.check(truck);
-
         }
     }
