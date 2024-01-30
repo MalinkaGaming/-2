@@ -10,5 +10,4 @@ public class Bicycle extends AbstractVehicle {
             updateTyre();
         }
     }
-
 }

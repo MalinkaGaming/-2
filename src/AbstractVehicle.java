@@ -4,7 +4,6 @@ public abstract class AbstractVehicle implements Checkable {
     public String getModelName() {
         return modelName;
     }
-
     public void setModelName(String modelName) {
         this.modelName = modelName;
     }

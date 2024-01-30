@@ -11,7 +11,6 @@ public class Car extends Bicycle {
         }
         checkEngine();
     }
-
     public void checkEngine() {
         System.out.println("Проверяем двигатель");
     }
